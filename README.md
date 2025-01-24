@@ -11,3 +11,5 @@ The heart of the IrBridge is an ESP32-WROOM-32 CPU. The software is written for 
 
 The programming is done via a ESP-Link. The ESP-Link is not anymore used after programming.
 
+
+The PCB and the documentation ca be found on http://www.systech-gmbh.ch/IrBridge.htm#section6
